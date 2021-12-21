@@ -1,4 +1,4 @@
 Made By Curse
-
-1. Dependencies qtarget
+Dependencies
+1. qtarget
 2. ESX
